@@ -1,0 +1,18 @@
+# Dataset
+ADEChallengeData2016/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+ENV/
+env/
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# OS misc
+.DS_Store
+Thumbs.db
